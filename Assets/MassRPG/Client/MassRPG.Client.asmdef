@@ -1,0 +1,14 @@
+{
+  "name": "MassRPG.Client",
+  "rootNamespace": "MassRPG.Client",
+  "references": ["MassRPG.Core", "MassRPG.Data", "MassRPG.Server"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

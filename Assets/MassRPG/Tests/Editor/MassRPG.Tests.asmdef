@@ -1,0 +1,15 @@
+{
+  "name": "MassRPG.Tests",
+  "rootNamespace": "MassRPG.Tests",
+  "references": ["MassRPG.Core", "MassRPG.Data", "MassRPG.Server", "MassRPG.EditorCore"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true,
+  "optionalUnityReferences": ["TestAssemblies"]
+}
